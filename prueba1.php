@@ -14,10 +14,17 @@ $valor2=22;
 
 $cadena3=" es:";
 
+
+
 $resultado=$valor1 + $valor2;
 
 $cadfinal=$cadena1.$valor1.$cadena2.$valor2.$cadena3.$resultado;
 
 echo $cadfinal;
+
+
+echo $cadena1;
+
+
 
 ?>
