@@ -14,13 +14,20 @@ $valor2=22;
 
 $cadena3=" es:";
 
+
+
 $resultado=$valor1 + $valor2;
 
 $cadfinal=$cadena1.$valor1.$cadena2.$valor2.$cadena3.$resultado;
 
 echo $cadfinal;
 
+<<<<<<< HEAD
 //hola ya estan las mod
+=======
+
+echo $cadena1;
+>>>>>>> 271aaf8fe38328176a6d71ea945574d2c2fa74a6
 
 
 
