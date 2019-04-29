@@ -20,4 +20,8 @@ $cadfinal=$cadena1.$valor1.$cadena2.$valor2.$cadena3.$resultado;
 
 echo $cadfinal;
 
+//hola ya estan las mod
+
+
+
 ?>
